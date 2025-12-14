@@ -7,8 +7,11 @@
    I am a mechanical engineering professional with strong expertise in **design, simulation, and thermal engineering**. I enjoy solving real-world engineering problems using **CAE tools, numerical analysis, and practical prototyping**.
 
 ---
+## 📫 Connect With Me
+- 💼 LinkedIn: *(https://www.linkedin.com/in/vijay-raj-j-70604621b/)*  
+- 📧 Email: *(vijayrajofficial45@gmail.com)*  
 
-
+---
 ## 🧠 Technical Skills
 
    | 🔧 Mechanical Engineering | 📊 Simulation & Analysis |
@@ -108,9 +111,27 @@
 - Designed the complete setup in SolidWorks.  
 - Built a linear movement table system using stepper motors and NI USB-6008 DAQ.
 
+## 📄 Publications
 
-## 📫 Connect With Me
-- 💼 LinkedIn: *(https://www.linkedin.com/in/vijay-raj-j-70604621b/)*  
-- 📧 Email: *(vijayrajofficial45@gmail.com)*  
+### 🔬 Journal & Research Articles
+
+- **Enhanced helical fin designs with sugar alcohol–based hybrid NEPCM for improved melting and thermal safety in lithium-ion batteries**  
+  *April 2025*  
+  Focuses on improving thermal safety of lithium-ion batteries using hybrid nano-enhanced phase change materials (NEPCM) combined with optimized helical fin geometries to enhance melting behavior and heat dissipation. 🔗 [Link](https://www.sciencedirect.com/science/article/pii/S2590174525001643)
+  
+
+- **Synergistic enhancement of D-Mannitol solidification using hybrid nanoparticles and wavy spine–crossbar fins in a cylindrical latent heat storage unit**  
+  *October 2025*  
+  Investigates the combined effect of hybrid nanoparticle dispersion and innovative wavy spine–crossbar fin structures on accelerating solidification in latent heat thermal energy storage systems.🔗 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0360544225046444)
+  
+
+- **Enhanced solidification of dual sugar alcohol nano-enhanced phase change materials using tapered crossbar fins for solar thermal energy storage**  
+  *November 2025*  
+  Presents a numerical study on dual sugar-alcohol-based NEPCM systems integrated with tapered crossbar fins to improve solidification rates and overall thermal performance in solar thermal storage applications.  🔗 [Link](https://www.sciencedirect.com/science/article/abs/pii/S2352152X25043683)  
+
+---
+
+
+
 
 > *“Good engineering blends analysis, creativity, and practical insight.”*
