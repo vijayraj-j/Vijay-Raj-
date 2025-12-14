@@ -22,7 +22,6 @@
    | • HVAC Systems | • Structural Simulations |
    | • Heat Exchanger Design & Analysis | |
 
-
 ---
 
 ## 🧰 Tools & Software
@@ -56,37 +55,43 @@
 - R&D and Product Innovation  
 
 ---
-## 🚀 Projects
+## 📌 Projects
+
+---
 
 ### 🔹 CFD Analysis on Solidification of PCM with Different Fin Structures  
-**Vellore Institute of Technology | Jan 2025 – May 2025**  
-- Conducted CFD analysis on phase change material (PCM) solidification using different fin structures.  
-- Evaluated solidification rate and heat dissipation efficiency for various fin configurations.  
-- Compared thermal performance to identify optimal fin designs for enhanced heat transfer.
+**Vellore Institute of Technology | Jan 2025 – May 2025**
+
+| Description | |
+|------------|--|
+| • Conducted CFD analysis on phase change material (PCM) solidification using different fin structures. <br> • Evaluated solidification rate and heat dissipation efficiency for various fin configurations. <br> • Compared thermal performance to identify optimal fin designs for enhanced heat transfer. | <img src="assets/4.png" height="200"/> |
 
 ---
 
 ### 🔹 CFD Analysis on Lithium-Ion Cell for Thermal Runaway  
-**Vellore Institute of Technology | Jun 2024 – Dec 2024**  
-- Designed and implemented phase change materials (PCM) and fin structures to improve heat dissipation.  
-- Analysed temperature reduction around lithium-ion cells to mitigate thermal runaway risks.  
-- Focused on enhancing thermal safety through passive thermal management techniques.
+**Vellore Institute of Technology | Jun 2024 – Dec 2024**
+
+| Description | |
+|------------|--|
+| • Designed and implemented PCM and fin structures to improve heat dissipation. <br> • Analysed temperature reduction around lithium-ion cells to mitigate thermal runaway risks. <br> • Focused on enhancing thermal safety using passive thermal management techniques. | <img src="assets/3.png" height="200"/> |
 
 ---
 
 ### 🔹 CFD Analysis on Shell and Helical Tube Heat Exchanger  
-**Vellore Institute of Technology | Jan 2024 – May 2024**  
-- Analysed the effect of different baffle configurations on shell-and-helical tube heat exchanger performance.  
-- Studied flow behaviour, temperature distribution, and heat transfer rates using CFD simulations.  
-- Provided design insights for improving thermal efficiency.
+**Vellore Institute of Technology | Jan 2024 – May 2024**
+
+| Description | |
+|------------|--|
+| • Analysed the impact of different baffle configurations on heat exchanger performance. <br> • Studied flow behaviour, temperature distribution, and heat transfer rates using CFD. <br> • Provided design insights for improved thermal efficiency. | <img src="assets/SH 2.png" height="200"/> |
 
 ---
 
 ### 🔹 Friction Stir Processing with Different Reinforcements  
-**Vellore Institute of Technology | Jul 2023 – Dec 2023**  
-- Investigated friction stir processing (FSP) on ZK60 magnesium alloy with Sn and TiO₂ reinforcements.  
-- Performed FSP with different numbers of passes on base and reinforced materials.  
-- Conducted microhardness testing before and after heat treatment to evaluate mechanical property changes.
+**Vellore Institute of Technology | Jul 2023 – Dec 2023**
+
+| Description | |
+|------------|--|
+| • Investigated FSP on ZK60 magnesium alloy with Sn and TiO₂ reinforcements. <br> • Conducted processing with different pass numbers. <br> • Performed microhardness testing before and after heat treatment. | <img src="assets/FSP 1.png" height="200"/> |
 
 ---
 
@@ -131,6 +136,10 @@
 
 ---
 
+
+
+
+---
 
 
 
