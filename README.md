@@ -26,30 +26,27 @@ I am a mechanical engineering professional with strong expertise in **design, si
 ## 🧰 Tools & Software
 
 ### 🔹 CAD & Design
-![SolidWorks](assets/Solidworks.png)
-<img src="assets/Fusion360_.png" height="300"/>
-<img src="assets/CATIA.png" height="300"/>
-![AutoCad](assets/AutoCad.png)
-
-<img src="assets/Ntop.png" height="300"/>
+<p align="center">
+  <img src="assets/Solidworks.png" height="300"/>
+  <img src="assets/Fusion360_.png" height="300"/>
+  <img src="assets/CATIA.png" height="300"/>
+  <img src="assets/AutoCad.png" height="300"/>
+  <img src="assets/Ntop.png" height="300"/>
+ </p> 
 
 
 ### 🔹 Simulation & CAE
-
-::contentReference[oaicite:1]{index=1}
-
-- ANSYS (Mechanical & Fluent)  
-- HyperMesh  
-- ANSA  
+<p align="center">
+  <img src="assets/ANSYS.png" height="300"/>
+  <img src="assets/Altair.png" height="300"/>
+  <img src="assets/images.png" height="300"/>
+ </p> 
 
 ### 🔹 Prototyping & Control
-
-::contentReference[oaicite:2]{index=2}
-
-- Arduino  
-- Raspberry Pi  
-
----
+<p align="center">
+  <img src="assets/Arduino.png" height="100"/>
+  <img src="assets/raspberrry.png" height="100"/>
+</p> 
 
 ## 🚀 Areas of Interest
 - CFD & Thermal Analysis  
