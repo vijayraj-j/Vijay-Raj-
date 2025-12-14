@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Vijay Raj
-🎓 **B.Tech In Mechatronics With Specialization in Robotics Graduate** 
-🎓 **M.Tech In CAD/CAM Graduate**  
+🎓 **B.Tech In Mechatronics With Specialization in Robotics Graduate @[SRM Institute of Science and Technology](https://www.srmist.edu.in)**     
+🎓 **M.Tech In CAD/CAM Graduate @ [VIT Chennai](https://chennai.vit.ac.in)**  
+
 🔧 Mechanical Design | CFD & FEA | Thermal Systems | Product Development  
 
-I am a mechanical engineering professional with strong expertise in **design, simulation, and thermal engineering**. I enjoy solving real-world engineering problems using **CAE tools, numerical analysis, and practical prototyping**.
+   I am a mechanical engineering professional with strong expertise in **design, simulation, and thermal engineering**. I enjoy solving real-world engineering problems using **CAE tools, numerical analysis, and practical prototyping**.
 
 ---
 
