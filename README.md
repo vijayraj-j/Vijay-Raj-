@@ -1,25 +1,23 @@
 # 👋 Hi, I'm Vijay Raj
-
-🎓 **M.Tech Mechanical Engineering Graduate**  
+🎓 **B.Tech In Mechatronics With Specialization in Robotics Graduate** 
+🎓 **M.Tech In CAD/CAM Graduate**  
 🔧 Mechanical Design | CFD & FEA | Thermal Systems | Product Development  
 
 I am a mechanical engineering professional with strong expertise in **design, simulation, and thermal engineering**. I enjoy solving real-world engineering problems using **CAE tools, numerical analysis, and practical prototyping**.
 
 ---
 
+
 ## 🧠 Technical Skills
 
-### 🔹 Mechanical Engineering
-- Mechanical Design & Product Development  
-- Engineering Drawing & GD&T  
-- Heat Transfer & Fluid Mechanics  
-- HVAC Systems  
-- Heat Exchanger Design & Analysis  
+| 🔧 Mechanical Engineering | 📊 Simulation & Analysis |
+|--------------------------|-------------------------|
+| • Mechanical Design & Product Development | • Computational Fluid Dynamics (CFD) |
+| • Engineering Drawing & GD&T | • Finite Element Analysis (FEA) |
+| • Heat Transfer & Fluid Mechanics | • Thermal Simulations |
+| • HVAC Systems | • Structural Simulations |
+| • Heat Exchanger Design & Analysis | |
 
-### 🔹 Simulation & Analysis
-- Computational Fluid Dynamics (CFD)  
-- Finite Element Analysis (FEA)  
-- Thermal & Structural Simulations  
 
 ---
 
@@ -27,18 +25,18 @@ I am a mechanical engineering professional with strong expertise in **design, si
 
 ### 🔹 CAD & Design
 <p align="center">
-  <img src="assets/Solidworks.png" height="300"/>
-  <img src="assets/Fusion360_.png" height="300"/>
-  <img src="assets/CATIA.png" height="300"/>
-  <img src="assets/AutoCad.png" height="300"/>
-  <img src="assets/Ntop.png" height="300"/>
+  <img src="assets/Solidworks.png" height="100"/>
+  <img src="assets/Fusion360_.png" height="100"/>
+  <img src="assets/CATIA.png" height="100"/>
+  <img src="assets/AutoCad.png" height="100"/>
+  <img src="assets/Ntop.png" height="100"/>
  </p> 
  
 ### 🔹 Simulation & CAE
 <p align="center">
-  <img src="assets/ANSYS.png" height="300"/>
-  <img src="assets/Altair.png" height="300"/>
-  <img src="assets/images.png" height="300"/>
+  <img src="assets/ANSYS.png" height="100"/>
+  <img src="assets/Altair.png" height="100"/>
+  <img src="assets/images.png" height="100"/>
  </p> 
 
 ### 🔹 Prototyping & Control
