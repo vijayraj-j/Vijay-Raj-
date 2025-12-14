@@ -53,6 +53,61 @@
 - R&D and Product Innovation  
 
 ---
+## 🚀 Projects
+
+### 🔹 CFD Analysis on Solidification of PCM with Different Fin Structures  
+**Vellore Institute of Technology | Jan 2025 – May 2025**  
+- Conducted CFD analysis on phase change material (PCM) solidification using different fin structures.  
+- Evaluated solidification rate and heat dissipation efficiency for various fin configurations.  
+- Compared thermal performance to identify optimal fin designs for enhanced heat transfer.
+
+---
+
+### 🔹 CFD Analysis on Lithium-Ion Cell for Thermal Runaway  
+**Vellore Institute of Technology | Jun 2024 – Dec 2024**  
+- Designed and implemented phase change materials (PCM) and fin structures to improve heat dissipation.  
+- Analysed temperature reduction around lithium-ion cells to mitigate thermal runaway risks.  
+- Focused on enhancing thermal safety through passive thermal management techniques.
+
+---
+
+### 🔹 CFD Analysis on Shell and Helical Tube Heat Exchanger  
+**Vellore Institute of Technology | Jan 2024 – May 2024**  
+- Analysed the effect of different baffle configurations on shell-and-helical tube heat exchanger performance.  
+- Studied flow behaviour, temperature distribution, and heat transfer rates using CFD simulations.  
+- Provided design insights for improving thermal efficiency.
+
+---
+
+### 🔹 Friction Stir Processing with Different Reinforcements  
+**Vellore Institute of Technology | Jul 2023 – Dec 2023**  
+- Investigated friction stir processing (FSP) on ZK60 magnesium alloy with Sn and TiO₂ reinforcements.  
+- Performed FSP with different numbers of passes on base and reinforced materials.  
+- Conducted microhardness testing before and after heat treatment to evaluate mechanical property changes.
+
+---
+
+### 🔹 Trajectory Optimization and Control of Manipulator  
+**SRM Institute of Science and Technology | Jan 2023 – May 2023**  
+- Developed and implemented a path planning algorithm for manipulator trajectory optimization.  
+- Improved accuracy and efficiency of manipulator motion through trajectory refinement.
+
+---
+
+### 🔹 IoT-Based Home Automation System  
+**SRM Institute of Science and Technology | Feb 2022**  
+- Designed and built a NodeMCU-based home automation system.  
+- Enabled voice control using Google Assistant and Alexa.  
+- Implemented mobile app-based remote control for home appliances.
+
+---
+
+### 🔹 Single Layer Pattern Structured Light Reconstruction  
+**SRM Institute of Science and Technology | Jun 2022 – Jul 2022**  
+- Worked on 3D reconstruction using structured light techniques.  
+- Designed the complete setup in SolidWorks.  
+- Built a linear movement table system using stepper motors and NI USB-6008 DAQ.
+
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: *(https://www.linkedin.com/in/vijay-raj-j-70604621b/)*  
