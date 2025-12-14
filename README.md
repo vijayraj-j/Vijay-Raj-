@@ -33,8 +33,7 @@ I am a mechanical engineering professional with strong expertise in **design, si
   <img src="assets/AutoCad.png" height="300"/>
   <img src="assets/Ntop.png" height="300"/>
  </p> 
-
-
+ 
 ### 🔹 Simulation & CAE
 <p align="center">
   <img src="assets/ANSYS.png" height="300"/>
@@ -57,7 +56,7 @@ I am a mechanical engineering professional with strong expertise in **design, si
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*  
-- 📧 Email: *(Add your email here)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/vijay-raj-j-70604621b/)*  
+- 📧 Email: *(vijayrajofficial45@gmail.com)*  
 
 > *“Good engineering blends analysis, creativity, and practical insight.”*
