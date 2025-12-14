@@ -11,13 +11,13 @@
 
 ## 🧠 Technical Skills
 
-| 🔧 Mechanical Engineering | 📊 Simulation & Analysis |
-|--------------------------|-------------------------|
-| • Mechanical Design & Product Development | • Computational Fluid Dynamics (CFD) |
-| • Engineering Drawing & GD&T | • Finite Element Analysis (FEA) |
-| • Heat Transfer & Fluid Mechanics | • Thermal Simulations |
-| • HVAC Systems | • Structural Simulations |
-| • Heat Exchanger Design & Analysis | |
+   | 🔧 Mechanical Engineering | 📊 Simulation & Analysis |
+   |--------------------------|-------------------------|
+   | • Mechanical Design & Product Development | • Computational Fluid Dynamics (CFD) |
+   | • Engineering Drawing & GD&T | • Finite Element Analysis (FEA) |
+   | • Heat Transfer & Fluid Mechanics | • Thermal Simulations |
+   | • HVAC Systems | • Structural Simulations |
+   | • Heat Exchanger Design & Analysis | |
 
 
 ---
